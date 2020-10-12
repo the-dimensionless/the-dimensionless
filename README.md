@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**the-dimensionless/the-dimensionless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I am the-dimensionless
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on React-Native
+- 🌱 I’m currently learning React-Native
+- 👯 I’m looking to collaborate on ML, DL Projects
+- 🤔 I’m looking for help with DS, AI
+- 💬 Ask me about Java, Python, JS
+- 📫 How to reach me: sumit.sssingh.singh45@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+[![the-dimensionless' github stats](https://github-readme-stats.vercel.app/api?username=the-dimensionless)](https://github.com/anuraghazra/github-readme-stats)
