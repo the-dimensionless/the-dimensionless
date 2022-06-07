@@ -1,10 +1,10 @@
 ### Hi there 👋 I am the-dimensionless https://sumit-singh.netlify.app/
 
-- 🔭 I’m currently working on React-Native
-- 🌱 I’m currently learning React-Native
-- 👯 I’m looking to collaborate on ML, DL Projects
-- 🤔 I’m looking for help with AI
-- 💬 Ask me about Java, Python, JS, Web-development
+- 🔭 I’m currently working on Go Lang and React-Native
+- 🌱 I’m currently learning Spring Reactive 
+- 👯 I’m looking to collaborate on Angular, React, Spring Projects
+- 🤔 I’m looking for help with Cloud Computing
+- 💬 Ask me about Java, JS, Pytho, Web-development
 - 📫 How to reach me: sumit.sssingh.singh45@gmail.com
 
 ### 🔧 Technologies & Tools
@@ -37,6 +37,4 @@
 
 
 <!---
-([![the-dimensionless' github stats](https://github-readme-stats.vercel.app/api?username=the-dimensionless)](https://github.com/the-dimensionless/))
--->
-
+([![the-dimensionless' github stats
